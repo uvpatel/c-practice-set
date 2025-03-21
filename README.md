@@ -2,7 +2,7 @@
 ![Contributions](https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=for-the-badge&logo=github)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)
 
-#  ![C](./assets/c.png) C Practice Set  ![C](./assets/c.png)
+#  ![C](./assets/c.png) C Practice Set  ![C](./assets/cgo.png)
 
 A **comprehensive collection** of C programming exercises to **enhance coding skills** and solidify core **C programming concepts**. Whether you're a beginner or an advanced programmer, these exercises will help you sharpen your logic and problem-solving abilities.
 
